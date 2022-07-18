@@ -27,7 +27,7 @@
     "jest": "25.1.0",
     "jquery": "1.11.0",
     "jquery-migrate": "1.2.1",
-    "jquery-ui": "1.12.1",
+    "jquery-ui": "1.13.2",
     "jquery-validation": "1.19.1",
     "less": "3.11.1",
     "less-loader": "5.0.0",
